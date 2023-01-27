@@ -1,7 +1,7 @@
 # Pac
 Title: Pac-Man Factory 
 
-<img src = "https://jordanwitekk.github.io/Pac/images/PacMan1.png" width='200'/>
+<img src= "https://jordanwitekk.github.io/Pac/images/PacMan1.png" width='200'/>
 
 
 Desprection
@@ -13,7 +13,7 @@ Each time the "Add PacMan" button is clicked, a new pacman should appear at a ra
 When you click the "Start Game" button, the pacman or pac man created should start moving at random velocity on the screen
 When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page
 
-
+Demo: https://jordanwitekk.github.io/Pac/ 
 
 How to run
 
